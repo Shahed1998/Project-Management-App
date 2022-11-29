@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="4d593a8e06d54d84a8e80158fba499b4" Name="Diagram1">
+        <EntityTypeShape EntityType="Project_ManagementModel.Project_Members" Width="1.5" PointX="5.25" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Project_ManagementModel.Project_Status" Width="1.5" PointX="6" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Project_ManagementModel.Project" Width="1.5" PointX="8.25" PointY="3.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Project_ManagementModel.sysdiagram" Width="1.5" PointX="0.75" PointY="7.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Project_ManagementModel.User_Roles" Width="1.5" PointX="0.75" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Project_ManagementModel.User" Width="1.5" PointX="3" PointY="3.375" IsExpanded="true" />
+        <AssociationConnector Association="Project_ManagementModel.FK_Project_Members_Project_Members" ManuallyRouted="false" />
+        <AssociationConnector Association="Project_ManagementModel.FK_Project_Members_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Project_ManagementModel.FK_Projects_Project_Status" ManuallyRouted="false" />
+        <AssociationConnector Association="Project_ManagementModel.FK_Projects_Users" ManuallyRouted="false" />
+        <AssociationConnector Association="Project_ManagementModel.FK_Users_User_Roles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

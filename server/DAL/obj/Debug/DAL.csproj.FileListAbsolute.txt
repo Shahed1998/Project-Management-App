@@ -1,0 +1,10 @@
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\bin\Debug\DAL.dll.config
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\bin\Debug\DAL.dll
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\bin\Debug\DAL.pdb
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\bin\Debug\EntityFramework.dll
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\bin\Debug\EntityFramework.xml
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\obj\Debug\DAL.csproj.CopyComplete
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\obj\Debug\DAL.dll
+S:\Self_Learning\Projects\Project-Management-App\server\DAL\obj\Debug\DAL.pdb
